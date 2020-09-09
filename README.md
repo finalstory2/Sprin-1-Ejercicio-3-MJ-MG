@@ -1,2 +1,2 @@
-# Sprin-1-Ejercicio-3-MJ-MG
+# sprint1-Ejercicio2
 Created with CodeSandbox
